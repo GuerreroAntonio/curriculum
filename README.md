@@ -1,5 +1,5 @@
 # curriculum
- Youtube Clone
+ 
 Table of Contents
 
     About the Project
@@ -16,11 +16,11 @@ Table of Contents
 
 About the project
 
-    Youtube clone project.
+    currriculum project.
 
 Live Demo
 
-Youtube clone.
+curriculum.
 Built With
 
     HTML 5
